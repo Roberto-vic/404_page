@@ -9,11 +9,11 @@ Simple 404-page, full responsive with a bit of animation.
 
 ## Build with
 
-The project ist done using a HTML-Boilerplate Template; I have created the path of the project with npmand puschet on Github with Git.
+The project ist done using a HTML-Boilerplate Template; I have created the path of the project with npm and pusched on Github with Git.
 
 ## Features
 
-Full responsive, created with a Mobile First Layout, I have added a simply animation to the Image for give it a bit of mouvement and not the 
+Full responsive, created with a Mobile First Layout, I have added a simply animation to the Image for give it a bit of movement and not the 
 classical static 404-page. 
 
 ## Contact
