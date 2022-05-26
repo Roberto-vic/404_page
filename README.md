@@ -1,4 +1,4 @@
-"# 404-page" 
+"## 404-page" 
 
 Hi everyone!!!!
 
@@ -24,6 +24,6 @@ classical static 404-page.
 If un like be in contact with me don't esitate to write me a message to roberto.vicari79@gmail.com 
 I looking also for a new job, where I can practice and lernen a lot of think.
 
-#Acknowlengmwnt 
+## Acknowlengmwnt 
 
 thanx to my self, a thanks all the people in the comunity of Devchallenges.io.
